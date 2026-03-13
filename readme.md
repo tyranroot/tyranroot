@@ -7,7 +7,7 @@
     | |     \   /  |  _  /   /  /_\  \  | . ` ||  _  / | |  | || |  | |  | |   
     | |      | |   | | \ \  /  _____  \ | |\  || | \ \ | |__| || |__| |  | |   
     |_|      |_|   |_|  \_\/__/     \__\|_| \_||_|  \_\ \____/  \____/   |_|   
-                           |__|     |__|
+
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=%5B+SYSTEM+BOOT...+%5D;%5B+LOADING+TYRANROOT...+%5D;%5B+TYRANROOT+HACKER+ONLINE+%5D;%5B+ETHICAL+HACKING+MODE%3A+ACTIVE+%5D;%5B+APP+DEV+CORE%3A+LOADED+%5D;%5B+BANGLADESH+%F0%9F%87%A7%F0%9F%87%A9+REPRESENT+%5D)](https://git.io/typing-svg)

@@ -164,6 +164,7 @@ drwxr-xr-x  Kali_Linux   ← Primary Hacking OS ☠️
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/marufxzerotrace)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyranroot)
 [![TikTok](https://img.shields.io/badge/TikTok-%23121011.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/tyranroot)
+[![Instagram](https://img.shields.io/badge/instagram-%23121011.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tyranroot)
 
 </div>
 

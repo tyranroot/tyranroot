@@ -28,7 +28,7 @@
 ┌──(tyranroot㉿athex)-[~]
 └─$ cat /etc/profile.d/identity.conf
 
-  NAME     : tyranroot
+  NAME     : TyranRoot
   ROLE     : App Developer | BlackHat Hacker
   TEAM     : ATHEX  ──► Learn Everything From Team ATHEX
   ORIGIN   : 🇧🇩 Bangladesh
